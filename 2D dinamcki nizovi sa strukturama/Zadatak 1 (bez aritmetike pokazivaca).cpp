@@ -1,5 +1,3 @@
-
-```cpp
 #include <iostream>
 using namespace std;
 
@@ -118,4 +116,3 @@ float* sim (figura** o, int vel) {
         }
     return zbir;
 }
-```
